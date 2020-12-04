@@ -38,3 +38,8 @@ In this offline zombie game, you can:
 - Kill zombies with legendary 3D weapons and attractive sounds.
 - Upgrade weapons and rifles to face non-stop zombie attacks.
 - Throw all kinds of zombies into the dead and survive!
+
+
+<img src="https://play-lh.googleusercontent.com/P-0tfUplOFTOdgc0wZg8VuSEc0wmJGH56jvfghu6SyJlt0lVoCYVR1k0uwoPjvk7OA=w720-h310-rw" alt="3" /><img src="https://play-lh.googleusercontent.com/W3fU_qVJlogehVobJskyuJ5xnXOd4QWozq7vJUwD8dmYQV2nBwrCvB6SLF3WlRyGRCdD=w720-h310-rw" alt="1" />  <img src="https://play-lh.googleusercontent.com/FXX7ux6WunmEQ1KCpdcGOhWywg6VmVm4FSNQVCSfN7r4JDaUKFkKb3y2bUx2-tgn-hE=w720-h310-rw" alt="2" /> <img src="https://play-lh.googleusercontent.com/ENOwuA47LXfKYYuPgja7CvwVId741HE2t932gVYlDmNKVKg8qECmWs9elh30eooVzv0=w720-h310-rw" alt="4" /> 
+
+
