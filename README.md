@@ -1,5 +1,5 @@
-## BMS GAMES
-
+<h1 style="text-align: center;"><strong>BMS GAMES</strong></h1>
+<p style="text-align: center;"><img src="https://play-lh.googleusercontent.com/vQhEls2KARc2UpSk6FIaWZ1ZRUAtAOFM4jYlqHmPzaI0xcJ6umQCD4NQS06B-_J6TTg=w144-h144-n-rw" alt="BMS LOGO" width="144" height="144" /></p>
 
 <h2>Zombie Shooter - Horror Day</h2>
 
