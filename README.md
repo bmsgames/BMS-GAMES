@@ -1,15 +1,6 @@
 ## BMS GAMES
 
 Zombie Shooter - Horror Day
-[Link](https://play.google.com/store/apps/details?id=com.bmsgames.Zombiehunter) and ![Image](src)
-```
+[Link](https://play.google.com/store/apps/details?id=com.bmsgames.Zombiehunter) and ![Image](https://play-lh.googleusercontent.com/5Sww4v5BmfACfz7bZ_bCAH8MtnHNxDsYC_IkULM25YJaFMmxalBRkC4LkHaxfJKuP5w=s180-rw)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmsgames/zs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
