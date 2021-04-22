@@ -1,9 +1,9 @@
 <h1 style="text-align: center;"><strong>BMS GAMES</strong></h1>
 <p style="text-align: center;"><img src="https://play-lh.googleusercontent.com/vQhEls2KARc2UpSk6FIaWZ1ZRUAtAOFM4jYlqHmPzaI0xcJ6umQCD4NQS06B-_J6TTg=w144-h144-n-rw" alt="BMS LOGO" width="144" height="144" /></p>
 
-<h2>Zombie Shooter - Horror Day</h2>
-
 <center><h1>Please Contact Us For Help @ bmsgames651@gmail.com</h1></center>
+
+<h2>Zombie Shooter - Horror Day</h2>
 
 <a href="https://play.google.com/store/apps/details?id=com.bmsgames.Zombiehunter"><img src="https://play-lh.googleusercontent.com/5Sww4v5BmfACfz7bZ_bCAH8MtnHNxDsYC_IkULM25YJaFMmxalBRkC4LkHaxfJKuP5w=s180-rw" alt="Zombie Shooter - Horror Day logo"> 
   
