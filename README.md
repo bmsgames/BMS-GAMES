@@ -1,8 +1,6 @@
 <h1 style="text-align: center;"><strong>BMS GAMES</strong></h1>
 <p style="text-align: center;"><img src="https://play-lh.googleusercontent.com/vQhEls2KARc2UpSk6FIaWZ1ZRUAtAOFM4jYlqHmPzaI0xcJ6umQCD4NQS06B-_J6TTg=w144-h144-n-rw" alt="BMS LOGO" width="144" height="144" /></p>
 
-<center><h1>Please Contact Us For Help: bmsgames651@gmail.com</h1></center>
-
 <h2>Zombie Shooter - Horror Day</h2>
 
 <a href="https://play.google.com/store/apps/details?id=com.bmsgames.Zombiehunter"><img src="https://play-lh.googleusercontent.com/5Sww4v5BmfACfz7bZ_bCAH8MtnHNxDsYC_IkULM25YJaFMmxalBRkC4LkHaxfJKuP5w=s180-rw" alt="Zombie Shooter - Horror Day logo"> 
@@ -43,4 +41,6 @@ In this offline zombie game, you can:
 
 <img src="https://play-lh.googleusercontent.com/P-0tfUplOFTOdgc0wZg8VuSEc0wmJGH56jvfghu6SyJlt0lVoCYVR1k0uwoPjvk7OA=w720-h310-rw" alt="3" /><img src="https://play-lh.googleusercontent.com/W3fU_qVJlogehVobJskyuJ5xnXOd4QWozq7vJUwD8dmYQV2nBwrCvB6SLF3WlRyGRCdD=w720-h310-rw" alt="1" />  <img src="https://play-lh.googleusercontent.com/FXX7ux6WunmEQ1KCpdcGOhWywg6VmVm4FSNQVCSfN7r4JDaUKFkKb3y2bUx2-tgn-hE=w720-h310-rw" alt="2" /> <img src="https://play-lh.googleusercontent.com/ENOwuA47LXfKYYuPgja7CvwVId741HE2t932gVYlDmNKVKg8qECmWs9elh30eooVzv0=w720-h310-rw" alt="4" /> 
 
+
+<center>Please Contact Us For Help: bmsgames651@gmail.com</center>
 
